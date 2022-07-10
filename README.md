@@ -10,3 +10,6 @@ Machine Learning Assignments:
   * Linear Regression
   * Decision Tree
   * Random Forest
+
+Data Science Tools Assignments:
+* Preprocessing and Cleaning

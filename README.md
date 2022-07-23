@@ -14,3 +14,4 @@ Machine Learning Assignments:
 Data Science Tools Assignments:
 * Preprocessing and Cleaning
 * Entropy and Decision Tree
+* Decision Tree and Random Forest

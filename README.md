@@ -10,6 +10,9 @@ Machine Learning Assignments:
   * Linear Regression
   * Decision Tree
   * Random Forest
+  
+* Titanic SVM
+  * SVM
 
 Data Science Tools Assignments:
 * Preprocessing and Cleaning

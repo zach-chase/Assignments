@@ -18,4 +18,5 @@ Data Science Tools Assignments:
 * Preprocessing and Cleaning
 * Entropy and Decision Tree
 * Decision Tree and Random Forest
-* Final Presentation
+* KNN
+* Final Assignment

@@ -13,6 +13,10 @@ Machine Learning Assignments:
   
 * Titanic SVM
   * SVM
+  
+* Naive Bayes
+
+* AI
 
 Data Science Tools Assignments:
 * Preprocessing and Cleaning

@@ -37,14 +37,29 @@ Machine Learning Assignments:
       * GridSearch
   
 4. Naive Bayes
-    * Description Here
-    * Main Topics:
-      *
+    * Load, Explore, and Clean the Bike Share Dataset. Prepare the data by scaling, splitting, one hot encoding, etc. Implement the following models on the data: decision tree, random forest, stochastic gradient descent, lasso regression, elastic net regression, ridge regression, and bagging regression. Implement cross-validation on the best performing models.
+    * Main Tools:
+      * Seaborn
+      * Pandas
+      * Numpy
+      * StandardScaler
+      * Cross-Validation
+      * Decision Tree
+      * Random Forest
+      * SGD
+      * Lasso
+      * Elastic Net
+      * Ridge
+      * Bagging
+      
 
 5. AI
-    * Description Here
-    * Main Topics:
-      *
+    * Use the Diabetes Dataset and implement an MLP Regressor. Use the Titanic Dataset and implement a Keras sequential classifier with relu activation functions. Use the Bike Share Dataset and implement a Keras sequential regressor with relu activation functions. Tune the Keras regressor with a grid search.
+    * Main Tools:
+      * Pandas
+      * Sklearn
+      * MLP Regressor
+      * Keras 
       
 ---
 

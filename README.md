@@ -77,7 +77,7 @@ Data Science Tools Assignments:
     * Main Topics:
     *
 4. KNN
-  * Description Here
+  * Description Here 
     * Main Topics:
     *
 5. Final Assignment

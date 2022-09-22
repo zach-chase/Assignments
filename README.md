@@ -65,7 +65,7 @@ Machine Learning Assignments:
 
 Data Science Tools Assignments:
 1. Preprocessing and Cleaning
-  * Description Here
+  * Cleaning the data
     * Main Topics:
     *
 2. Entropy and Decision Tree

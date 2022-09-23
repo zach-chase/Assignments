@@ -65,9 +65,15 @@ Machine Learning Assignments:
 
 Data Science Tools Assignments:
 1. Preprocessing and Cleaning
-  * Cleaning the data
+    * Clean the Boston Dataset using a variety of techniques.
     * Main Topics:
-    *
+      * Numpy
+      * Pandas
+      * Sklearn
+      * Pipeline
+      * Scaling
+      * SimpleImputer
+
 2. Entropy and Decision Tree
   * Description Here
     * Main Topics:

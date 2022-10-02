@@ -75,18 +75,35 @@ Data Science Tools Assignments:
       * SimpleImputer
 
 2. Entropy and Decision Tree
-  * Description Here
+    * Explore entropy and use it to construct decision trees.
     * Main Topics:
-    *
+      * Pandas
+      * Numpy
+      * Entropy
+      * Decision Tree
+      
 3. Decision Tree and Random Forest
-  * Description Here
+    * Explore the basics of decision trees
     * Main Topics:
-    *
+      * Numpy
+      * Pandas
+      * Sklearn
+      
 4. KNN
-  * Description Here 
+    * Explore the basics of K-Nearest Neighbors
     * Main Topics:
-    *
+      * Pipeline
+      * Gridsearch
+      * KNN
+     
 5. Final Assignment
-  * Description Here
+    * Compare the performance of the algorithms Logistic Regression, Support Vector Machine, Decision Tree, Random Forest, and K-Nearest Neighbor in predicting deaths from car accidents using car crash data
     * Main Topics:
-    *
+      * Random Oversampling
+      * SMOTE
+      * Logistic Regression
+      * SVM
+      * Decision Tree
+      * Random Forest
+      * KNN
+      

@@ -107,3 +107,7 @@ Data Science Tools Assignments:
       * Random Forest
       * KNN
       
+---
+
+Parallel
+      
